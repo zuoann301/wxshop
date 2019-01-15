@@ -16,8 +16,8 @@ Page({
   },
   onShareAppMessage: function () {
     return {
-      title: '睡冬宝',
-      desc: '睡冬宝家纺家居生活馆',
+      title: '网易商城',
+      desc: '网易商城',
       path: '/pages/index/index'
     }
   },onPullDownRefresh(){
